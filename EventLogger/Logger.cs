@@ -1,7 +1,7 @@
 ﻿using System.Diagnostics;
 using System.Net.Mail;
 
-namespace Email_Parser
+namespace EventLogger
 {
     internal class Logger
     {
