@@ -1,10 +1,4 @@
-﻿using Email_Parser;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using static Email_Parser.Logger;
+using static EventLogger.Logger;
 
 namespace EventLogger
 {
