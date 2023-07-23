@@ -1,4 +1,4 @@
-# .NETLib EventLogger
+# Lib EventLogger
 
 ## Table of Contents
 
@@ -26,8 +26,7 @@ To use this library in your project, you can add the appropriate reference to yo
 The `Logger` class in this library allows you to log events and errors to text files. Here's how you can use it:
 
 ```csharp
-using Email_Parser;
-using static Email_Parser.Logger;
+using static EventLogger.Logger;
 
 namespace YourNamespace
 {
